@@ -1,0 +1,8 @@
+.total{
+    display: flex;
+    margin: 35px 160px 15px 160px;
+    background-color: gray;   
+    padding: 20px;
+    border-radius: 8px; 
+    color: white;
+}
